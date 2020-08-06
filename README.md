@@ -42,3 +42,20 @@ Webhooks delivers data to other applications as it happens, meaning you get data
 
 Webhooks allow you to build or set up integrations, such as GitHub which subscribe to certain events on GitHub.com. 
 When one of those events is triggered, we'll send a HTTP POST payload to the webhook's configured URL.
+
+
+To add a web hook to your repo 
+    
+    Open your Repo
+    
+    Navigate to the settings tab
+    
+    Click on Webhooks
+    
+    Add the URL you want
+    
+    Define the triggers
+    
+    Then click add
+    
+You have now made a webhook for your repo
