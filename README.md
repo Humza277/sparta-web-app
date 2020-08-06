@@ -11,7 +11,8 @@ Jenkins allows to execute a predefined list of steps, e.g.
     node app.js
 
 
-#How does Jenkins work?
+
+# How does Jenkins work?
 
 Jenkins works like this:
 
@@ -62,4 +63,4 @@ To add a web hook to your repo
 You have now made a webhook for your repo
 
 
-bob
+bob123
