@@ -12,6 +12,7 @@ Jenkins allows to execute a predefined list of steps, e.g.
 
 
 #How does Jenkins work?
+
 Jenkins works like this:
 
 Developer changes the code: 
