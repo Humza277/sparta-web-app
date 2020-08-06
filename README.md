@@ -11,7 +11,8 @@ Jenkins allows to execute a predefined list of steps, e.g.
     node app.js
 
 
-#How does Jenkins work?
+# How does Jenkins work?
+
 Jenkins works like this:
 
 Developer changes the code: 
